@@ -25,8 +25,8 @@ Ariffb:
 https://github.com/Ariffb25
 KingOfBear: 
 https://github.com/SaipulAnuar
-ilham: 
-https://github.com/Ilhamskhzyi
+sylvia
+https://github.com/sylviaadrastea
 
 `
      const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
